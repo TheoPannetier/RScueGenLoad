@@ -1,3 +1,0 @@
-Simulation	TraitType	ExprSex	Positions	NbrOfPositions	ExpressionType	 InitialDistribution	InitialParameters	DominanceDistribution	DominanceParameters	IsInherited	MutationDistribution	MutationParameters	MutationRate	OutputValues
-1	emigration_d0	#	0-2	#	additive	normal	"mean=0.05,sd=0.06"	#	#	TRUE	normal	"mean=0,sd=0.06"	0.001	TRUE
-1	genetic_load	#	0-2	#	multiplicative	#	#	uniform	"min=0,max=1"	TRUE	uniform	"min=0,max=1"	0.001	TRUE

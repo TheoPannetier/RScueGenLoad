@@ -4,7 +4,7 @@ tbl <- readr::read_tsv(
   )
 
 tbl %>% 
-  ggplot(aes(x = 1, y = y, colour = meanEP)) +
+  ggplot(aes(x = 1, y = y, colour = mean_distI)) +
   geom_jitter() +
   scale_colour_viridis_b() +
   facet_grid(cols = vars(Year)) +
