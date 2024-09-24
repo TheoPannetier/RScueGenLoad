@@ -1,0 +1,2 @@
+Simulation	StageDep	SexDep	Stage	Sex	SettleType	FindMate
+1	0	0	0	0	0	-9
