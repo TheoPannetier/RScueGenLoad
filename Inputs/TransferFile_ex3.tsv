@@ -1,11 +1,4 @@
 Simulation	StageDep	SexDep	KernelType	DistMort	IndVar	Stage	Sex	meanDistI	meanDistII	ProbKernelI	MortProb	Slope	InflPoint
 1	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
-2	0	0	0	0	1	0	0	-9	-9	-9	0	-9	-9
-3	0	0	0	0	1	0	0	-9	-9	-9	0	-9	-9
-4	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
-5	0	0	0	0	1	0	0	-9	-9	-9	0	-9	-9
-6	0	0	0	0	1	0	0	-9	-9	-9	0	-9	-9
-7	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
-8	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
 9	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
 10	0	0	0	0	0	0	0	200	-9	-9	0	-9	-9
