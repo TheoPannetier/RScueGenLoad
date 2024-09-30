@@ -1,4 +1,4 @@
-BatchNum	3
+BatchNum	2
 PatchModel	0
 Resolution	100
 LandType	9
