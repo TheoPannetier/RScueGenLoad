@@ -1,3 +1,4 @@
 # Output files are too large to be tracked with version control
 # Instead they live in the shared drive (T:/) at the School of Biological Sciences in Aberdeen
 Outputs/*
+.Rproj.user
